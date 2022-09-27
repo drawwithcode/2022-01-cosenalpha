@@ -97,15 +97,15 @@ of comment, I can easily find the rectangle I need */
   rect(2, 540, 194, 58); //white12
   rect(258, 477, 63, 121); //white13
   rect(912, 410, 86, 122); //white14
-  rect(485, 532, 85, 65); //white15
-  rect(660, 532, 218, 65); //white16
+  rect(485, 532, 85, 66); //white15
+  rect(660, 532, 218, 66); //white16
   
   fill("black");
   square(726, 2, 62); //black1
   square(788, 165, 123); //black2
   rect(90, 318, 106, 95); //black3
   rect(339, 289, 146, 125); //black4
-  rect(572, 532, 92, 65); //black5
+  rect(572, 532, 92, 66); //black5
  
   fill("red");
   rect(2, 42, 337, 278); //red1
@@ -124,7 +124,7 @@ even if the color switch is activated by both */
   rect(x, y, 164, 121); //bigger rect
   
   fill(color(colorHex1));
-  rect(x1, y1, 120, 65); //smaller rect
+  rect(x1, y1, 120, 66); //smaller rect
 
 /* This block creates the text that appears and slides
 on screen when the artwork is started.
