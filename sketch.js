@@ -44,7 +44,7 @@ function setup() {
 	y = 100;
 	xspeed = rand;
 	yspeed = rand;
-  x1 = 130;
+        x1 = 130;
 	y1 = 400;
 	x1speed = rand1;
 	y1speed = rand1;
