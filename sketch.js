@@ -26,7 +26,6 @@ as a consequence to a condition */
 let win;
 let bonk;
 
-
 /* The preload() function is called before the setup()
 function and is used to load external files inside the
 document. In this case, I used it to load two mp3 files
